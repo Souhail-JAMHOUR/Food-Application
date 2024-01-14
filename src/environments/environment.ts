@@ -4,14 +4,9 @@
 
 export const environment = {
   production: false,
-  firebaseConfig : {
-    apiKey: "AIzaSyBullvZHXUvX8_fmOjhwCkuwKWSaCoiXkg",
-    authDomain: "uber-eat-cd002.firebaseapp.com",
-    projectId: "uber-eat-cd002",
-    storageBucket: "uber-eat-cd002.appspot.com",
-    messagingSenderId: "603334771388",
-    appId: "1:603334771388:web:523f6a70b3ad2ebb7646b9"
-  }
+  // firebaseConfig : {
+  //
+  // }
 };
 
 /*
