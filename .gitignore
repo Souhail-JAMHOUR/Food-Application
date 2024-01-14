@@ -1,0 +1,8 @@
+node_modules/
+temp/
+*.DS_Store
+*.log
+*.swp
+packages/angular/css/
+packages/angular/test/build/
+.angular/
